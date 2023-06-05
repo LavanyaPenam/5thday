@@ -1,0 +1,67 @@
+/* h1{
+    color:blue;
+    font-style: normal;
+    font-size: xx-large;
+    text-decoration: none;
+    border:dashed;
+    border-width: 3px;
+    font-weight: bold;
+
+}
+h6{
+    font-style:oblique;
+font-weight: 400;
+font-size: 40px;
+border: solid;
+border-width:10px;
+border-width:green;
+border-radius: 8px;
+border-color: grey;
+
+
+}
+h2{
+    color:blue;
+    font-size:xx-large;
+    text-decoration: underline;
+    font-size: xx-large;
+
+
+} */
+p{
+    color:yellow;
+    font-style:italic;
+    font-weight: 200px;
+    /* text-decoration: line-through; */
+    font-size: xx-large;
+
+
+}
+/* h4{
+    font-size: xx-large;
+color: orangered;
+text-decoration: overline;
+
+}
+a{
+    text-decoration: none;
+    font-size: xx-large;
+    color: teal;
+
+}
+body{
+    background-color: aqua;
+
+} */
+/* body{
+    background-image: url('https://cdn.wallpapersafari.com/89/97/asJDhU.jpg');
+    background-size: cover;
+    height: 50vh;
+} */
+/* button{
+    padding: 30px;
+    margin: 30px;
+    margin-left: 70px; */
+    /* margin-right: 40px; */
+    
+}
